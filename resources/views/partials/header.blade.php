@@ -25,65 +25,6 @@
                 </a>
             </li><!-- End Search Icon-->
 
-            <li class="nav-item dropdown">
-
-                <a class="nav-link nav-icon" href="#" data-bs-toggle="dropdown">
-                    <i class="bi bi-bell"></i>
-                    <span class="badge bg-primary badge-number">4</span>
-                </a><!-- End Notification Icon -->
-
-                <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow notifications">
-                    <li class="dropdown-header">
-                        Tiene 4 Notificaciones
-                    </li>
-                    <li>
-                        <hr class="dropdown-divider">
-                    </li>
-
-                    <li class="notification-item">
-                        <i class="bi bi-exclamation-circle text-warning"></i>
-                        <div>
-                            <h4>Advertencia</h4>
-                            <p>Completar Registro</p>
-                            <p>Hace 30 min. </p>
-                        </div>
-                    </li>
-
-                    <li>
-                        <hr class="dropdown-divider">
-                    </li>
-
-                    <li class="notification-item">
-                        <i class="bi bi-x-circle text-danger"></i>
-                        <div>
-                            <h4>Error</h4>
-                            <p>Los datos no han sido registrados</p>
-                            <p>Hace 1 hr.</p>
-                        </div>
-                    </li>
-
-                    <li>
-                        <hr class="dropdown-divider">
-                    </li>
-
-                    <li class="notification-item">
-                        <i class="bi bi-check-circle text-success"></i>
-                        <div>
-                            <h4>Aprobado</h4>
-                            <p>Se guardó correctamente la información</p>
-                            <p>Hace 2 hrs.</p>
-                        </div>
-                    </li>
-
-
-
-                </ul><!-- End Notification Dropdown Items -->
-
-            </li><!-- End Notification Nav -->
-
-
-
-
 
             <li class="nav-item dropdown pe-3">
 
